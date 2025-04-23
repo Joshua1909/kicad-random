@@ -74,7 +74,7 @@ Contributions are welcome! If you have created footprints or symbols for compone
 
 ## License
 
-This library is released under the [GLP-3.0 license](LICENSE.md).
+This library is released under the [GLP-3.0 license](LICENSE).
 
 ## Acknowledgments
 
